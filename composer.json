@@ -1,0 +1,17 @@
+{
+    "name": "quimgc/hello-ng",
+    "require": {
+        "fzaninotto/faker": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Quimgc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "quimgc",
+            "email": "quimgonzalez@iesebre.com"
+        }
+    ]
+}
